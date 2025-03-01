@@ -14,5 +14,13 @@ manifest:
     - name: zmk-helpers
       remote: urob
       revision: main
+    - name: zmk-auto-layer
+      remote: urob
+      revision: main
+      path: modules/zmk/auto-layer
+    - name: zmk-leader-key
+      remote: urob
+      revision: main
+      path: modules/zmk/leader-key
   self:
     path: config
