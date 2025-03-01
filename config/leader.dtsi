@@ -21,8 +21,8 @@ ZMK_LEADER_SEQUENCE(de_ue,      &de_ue,         U)  // ü
 ZMK_LEADER_SEQUENCE(de_eszett,  &de_eszett,     S)  // ß
 
 // BLE and USB
-ZMK_LEADER_SEQUENCE(usb,        &out OUT_USB,   U S B)
+/*ZMK_LEADER_SEQUENCE(usb,        &out OUT_USB,   U S B)
 ZMK_LEADER_SEQUENCE(ble,        &out OUT_BLE,   B L E)
 ZMK_LEADER_SEQUENCE(reset,      &sys_reset,     R E S E T)
 ZMK_LEADER_SEQUENCE(boot,       &bootloader,    B O O T)
-
+*/
